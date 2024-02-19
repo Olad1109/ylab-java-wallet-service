@@ -1,0 +1,3 @@
+e-mail: login@ex.com
+phone: +745612
+password: pass7

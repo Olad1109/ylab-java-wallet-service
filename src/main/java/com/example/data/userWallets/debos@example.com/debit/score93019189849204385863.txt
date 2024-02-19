@@ -1,0 +1,3 @@
+condition: 10.0 RUB
+amount: 130257.47 RUB
+percent: 3 % Y

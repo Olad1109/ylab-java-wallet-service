@@ -1,0 +1,3 @@
+condition: 1053955.9 RUB
+amount: 900000.0 RUB
+percent: 20 % Y

@@ -1,0 +1,3 @@
+e-mail: credos@example.com
+phone: +26031240901
+password: passcred

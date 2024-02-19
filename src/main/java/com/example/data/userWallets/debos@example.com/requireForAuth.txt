@@ -1,0 +1,3 @@
+e-mail: debos@example.com
+phone: +41007021212
+password: passdeb
